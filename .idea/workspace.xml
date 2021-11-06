@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933b9530-df80-4daf-938b-13b3c2ea6456" name="Changes" comment="" />
+    <list default="true" id="933b9530-df80-4daf-938b-13b3c2ea6456" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/Expresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/Expresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/decorators/DrinkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/estructural-patterns/src/main/java/br/com/cod3r/decorator/coffeeShop/model/decorators/DrinkDecorator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

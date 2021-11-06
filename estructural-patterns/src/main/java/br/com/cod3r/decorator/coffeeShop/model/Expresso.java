@@ -9,7 +9,7 @@ public class Expresso implements Drink {
 
 	@Override
 	public Double getPrice() {
-		return 1.5d;
+		return 1.5;
 	}
 
 }
